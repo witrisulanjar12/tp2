@@ -1,0 +1,17 @@
+
+.app{
+    background-color:white;
+    
+
+}
+
+.wrapper{
+    margin-top: 30%;
+    margin-bottom:100%;
+    background-color: turquoise;
+   
+}
+
+.warning{
+    display:none;
+}
